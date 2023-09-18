@@ -1,0 +1,79 @@
+body{
+    background-image: url(https://img.freepik.com/fotos-gratis/tecido-branco_53876-89528.jpg?q=10&h=200);
+    color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+
+
+}
+/*ESQUECE ESSA PARTE*/
+.body1{
+    background-image: url(https://img.freepik.com/fotos-gratis/tecido-branco_53876-89528.jpg?q=10&h=200);
+    color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 0, 191);
+}
+.body2{
+    background-image: url(https://img.freepik.com/fotos-gratis/tecido-branco_53876-89528.jpg?q=10&h=200);
+    color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 0, 191);
+}
+.body3{
+    background-image: url(https://img.freepik.com/fotos-gratis/tecido-branco_53876-89528.jpg?q=10&h=200);
+    color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 0, 191);
+}
+
+.format1{
+
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.format2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}.format3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}.format4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
